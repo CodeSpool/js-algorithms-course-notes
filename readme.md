@@ -11,3 +11,6 @@ Examples were shown on https://repl.it
 - HarmlessRansomNote
   - [Notes](notes/02-RansomNote.md)
   - [Source](src/RansomNote.js)
+- Palindrome
+  - [Notes](notes/03-Palindrome.md)
+  - [Source](src/Palindrome.js)
