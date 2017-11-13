@@ -14,3 +14,6 @@ Examples were shown on https://repl.it
 - Palindrome
   - [Notes](notes/03-Palindrome.md)
   - [Source](src/Palindrome.js)
+- Caesar Cipher
+  - [Notes](notes/04-CaesarCipher.md)
+  - [Source](src/CaesarCipher.js)
