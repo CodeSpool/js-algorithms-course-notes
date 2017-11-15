@@ -17,3 +17,6 @@ Examples were shown on https://repl.it
 - Caesar Cipher
   - [Notes](notes/04-CaesarCipher.md)
   - [Source](src/CaesarCipher.js)
+- Reverse Words
+  - [Notes](notes/05-ReverseWords.md)
+  - [Source](src/ReverseWords.js)
