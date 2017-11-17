@@ -8,7 +8,7 @@ Examples were shown on https://repl.it
 - FizzBuzz (modulus)
   - [Notes](notes/01-FizzBuzz.md)
   - [Source](src/FizzBuzz.js)
-- HarmlessRansomNote
+- Harmless RansomNote
   - [Notes](notes/02-RansomNote.md)
   - [Source](src/RansomNote.js)
 - Palindrome
@@ -20,3 +20,6 @@ Examples were shown on https://repl.it
 - Reverse Words
   - [Notes](notes/05-ReverseWords.md)
   - [Source](src/ReverseWords.js)
+- Reverse Array In Place
+  - [Notes](notes/06-ReverseArrayInPlace.md)
+  - [Source](src/ReverseArrayInPlace.js)
