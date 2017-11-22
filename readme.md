@@ -23,3 +23,6 @@ Examples were shown on https://repl.it
 - Reverse Array In Place
   - [Notes](notes/06-ReverseArrayInPlace.md)
   - [Source](src/ReverseArrayInPlace.js)
+- Mean Median Mode
+  - [Notes](notes/06-MeanMedianMode.md)
+  - [Source](src/MeanMedianMode.js)
