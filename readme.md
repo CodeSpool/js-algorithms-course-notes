@@ -24,5 +24,8 @@ Examples were shown on https://repl.it
   - [Notes](notes/06-ReverseArrayInPlace.md)
   - [Source](src/ReverseArrayInPlace.js)
 - Mean Median Mode
-  - [Notes](notes/06-MeanMedianMode.md)
+  - [Notes](notes/07-MeanMedianMode.md)
   - [Source](src/MeanMedianMode.js)
+- Two Sum
+  - [Notes](notes/08-TwoSum.md)
+  - [Source](src/TwoSum.js)
