@@ -29,3 +29,6 @@ Examples were shown on https://repl.it
 - Two Sum
   - [Notes](notes/08-TwoSum.md)
   - [Source](src/TwoSum.js)
+- Binary Search
+  - [Notes](notes/08-BinarySearch.md)
+  - [Source](src/BinarySearch.js)
