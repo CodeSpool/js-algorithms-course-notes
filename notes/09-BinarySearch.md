@@ -6,9 +6,9 @@ Write a function `f(N, M)` that accepts a number array N and a key M and return 
 - use recursion
 
 ## Concepts
-### Recursion
-- a function calling itself
-- must have a *base case* that returns a value instead of calling itself again
+- Recursion
+  - a function calling itself
+  - must have a *base case* that returns a value instead of calling itself again
 - values being searched must be sorted
 
 ## Note

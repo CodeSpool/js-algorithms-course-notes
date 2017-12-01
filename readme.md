@@ -30,5 +30,8 @@ Examples were shown on https://repl.it
   - [Notes](notes/08-TwoSum.md)
   - [Source](src/TwoSum.js)
 - Binary Search
-  - [Notes](notes/08-BinarySearch.md)
+  - [Notes](notes/09-BinarySearch.md)
   - [Source](src/BinarySearch.js)
+- Fibonacci
+  - [Notes](notes/10-Fibonacci.md)
+  - [Source](src/Fibonacci.js)
