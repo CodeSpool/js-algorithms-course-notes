@@ -35,3 +35,6 @@ Examples were shown on https://repl.it
 - Fibonacci
   - [Notes](notes/10-Fibonacci.md)
   - [Source](src/Fibonacci.js)
+- Memoized Fibonacci
+  - [Notes](notes/11-MemoizedFibonacci.md)
+  - [Source](src/MemoizedFibonacci.js)
