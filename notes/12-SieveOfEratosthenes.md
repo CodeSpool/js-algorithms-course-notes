@@ -1,4 +1,4 @@
-# Fibonacci
+# Sieve Of Eratosthenes
 
 ## The problem
 
