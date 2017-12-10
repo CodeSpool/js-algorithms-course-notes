@@ -38,3 +38,6 @@ Examples were shown on https://repl.it
 - Memoized Fibonacci
   - [Notes](notes/11-MemoizedFibonacci.md)
   - [Source](src/MemoizedFibonacci.js)
+- Sieve Of Eratosthenes
+  - [Notes](notes/12-SieveOfEratosthenes.md)
+  - [Source](src/SieveOfEratosthenes.js)
