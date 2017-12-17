@@ -41,9 +41,12 @@ Examples were shown on https://repl.it
 - Sieve Of Eratosthenes
   - [Notes](notes/12-SieveOfEratosthenes.md)
   - [Source](src/SieveOfEratosthenes.js)
-- BubbleSort
+- Bubble Sort
   - [Notes](notes/13-BubbleSort.md)
   - [Source](src/BubbleSort.js)
-- MergeSort
+- Merge Sort
   - [Notes](notes/14-MergeSort.md)
   - [Source](src/MergeSort.js)
+- Max Stock Profit
+  - [Notes](notes/15-MaxStockProfit.md)
+  - [Source](src/MaxStockProfit.js)
