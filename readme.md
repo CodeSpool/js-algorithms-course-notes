@@ -44,3 +44,6 @@ Examples were shown on https://repl.it
 - BubbleSort
   - [Notes](notes/13-BubbleSort.md)
   - [Source](src/BubbleSort.js)
+- MergeSort
+  - [Notes](notes/14-MergeSort.md)
+  - [Source](src/MergeSort.js)
